@@ -1,4 +1,6 @@
 <?php
+
+define( 'HEADLESS_MODE_CLIENT_URL', 'https://funny-shortbread-16c2e1.netlify.app/' );
 /**
  * The base configuration for WordPress
  *
