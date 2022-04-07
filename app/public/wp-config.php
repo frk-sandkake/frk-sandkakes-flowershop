@@ -1,6 +1,6 @@
 <?php
 
-define( 'HEADLESS_MODE_CLIENT_URL', 'https://funny-shortbread-16c2e1.netlify.app/' );
+define( 'HEADLESS_MODE_CLIENT_URL', 'https://www.lindasandaker.me' );
 /**
  * The base configuration for WordPress
  *
